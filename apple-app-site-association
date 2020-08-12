@@ -1,11 +1,11 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "KRGFX2CSDR.com.Favorit-Sport",
-        "paths": ["*"]
-      }
-    ]
-  }
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "KRGFX2CSDR.com.Favorit-Sport",
+                "paths": [ "*"]
+            }
+        ]
+    }
 }
